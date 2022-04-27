@@ -1,6 +1,6 @@
 # ECE 285 Assignment 1
 
-The assignment is due on April 18 2022 at 11:59pm PST.
+The assignment is written by Professor Xiaolong Wang and linear regression, logistic regression and CNN are completed by Laiwei Wei. 
 
 ## Overview
 
